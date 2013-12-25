@@ -13,7 +13,7 @@ Post to GitHub Gist every time a post is saved.
 
 This plugin provides the ability to save post into [GitHub Gist](https://gist.github.com) every time a post is saved.
 
-** Features **
+**Features**
 
 * Choose which post type is enabled.
 * Saves post content as text file and post object (as JSON).
