@@ -33,6 +33,10 @@ This plugin provides the ability to save post into [GitHub Gist](https://gist.gi
 
 ## Screenshots ##
 
+### Setting page, under Writings section, to set GitHub username and access token. Choose which post types are enabled for Post to Gist. There's test access token feature to make sure provided access token is valid.
+
+![Setting page, under Writings section, to set GitHub username and access token. Choose which post types are enabled for Post to Gist. There's test access token feature to make sure provided access token is valid.](assets/screenshot-1.png)
+
 ### Meta box where no Gist associated with the post yet.
 
 ![Meta box where no Gist associated with the post yet.](assets/screenshot-2.png)
